@@ -2,7 +2,7 @@
 -  I’m interested in Embedded Systems, IOT, Software Development(low and high level) and
 Embedded Linux.
 -  I’m currently learning Qt/QML, Yocto, Software Principles and 
-programming langueges like python.
+programming languages like python.
 -  I’m looking to collaborate on Embedded Software Development, Application Development
 with QT framework and Embedded Linux(Kernel Development).
 -  javadramezanzadeh@gmail.com
